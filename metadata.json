@@ -1,0 +1,6 @@
+{
+  "name": "MiSTer Binary Cloud Studio & Compiler",
+  "description": "Compile, patch, and customize MiSTer ARM binaries directly in the cloud or generate local build toolchains for WSL2, Linux, macOS, and GitHub Actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
